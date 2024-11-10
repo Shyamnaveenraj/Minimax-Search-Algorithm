@@ -1,8 +1,5 @@
 # ExpNo 5: Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 
-### Name: Abdur Rahman Basil A H
-### Register Number/Staff Id: 212223040002
-
 ### Aim:
 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
 
